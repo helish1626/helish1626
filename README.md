@@ -48,6 +48,12 @@
         <img id="editedPhoto" src="placeholder.jpg" alt="Edited Photo">
         <br>
         <button onclick="applyFilter()">Apply Filter</button>
+        <script>
+    function applyFilter() {
+        // Add your photo editing logic here
+        alert("Filter applied!");
+    }
+</script>
     </main>
 
     <script>
